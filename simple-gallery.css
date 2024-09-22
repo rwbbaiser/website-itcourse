@@ -1,0 +1,21 @@
+.description {
+    text-align: center;
+}
+
+.gallery-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gallery img {
+    max-width: 800px;
+}
+
+.gallery {
+    margin: 5px;
+}
+
+.gallery {
+    flex: 2;
+}
